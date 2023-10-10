@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '(find . -type d -mindepth 1 | wc -w)'
+echo (find . -type d -mindepth 1 | wc -w)
