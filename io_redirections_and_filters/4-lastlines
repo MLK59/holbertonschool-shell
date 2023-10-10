@@ -1,2 +1,4 @@
 #!/bin/bash
-tail -n /etc/password
+tail -n | cat /etc/passwd
+
+
