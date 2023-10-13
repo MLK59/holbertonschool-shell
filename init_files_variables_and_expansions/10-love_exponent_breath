@@ -1,5 +1,2 @@
 #!/bin/bash
-BREATH=$BREATH
-LOVE=$LOVE
-result=$(($Breath**$LOVE))
-echo "Result of BREATH to the power LOVE: $result"
+echo "$(($BREATH**$LOVE))"
